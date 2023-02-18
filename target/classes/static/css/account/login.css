@@ -129,7 +129,7 @@ a {
 }
 
 .ico_comm {
-    background: url(/images/ico_comm.png) 0 0 no-repeat;
+    background: url(/static/images/ico_comm.png) 0 0 no-repeat;
     background-size: 300px auto;
 
     display: inline-block;
@@ -345,7 +345,7 @@ body,html {
     width: 88px;
     height: 27px;
     margin: 0 auto;
-    background: #fff url(/images/logo_kakao.png) no-repeat 0 0;
+    background: #fff url(/static/images/logo_kakao.png) no-repeat 0 0;
     background-size: 100px 80px;
     font-size: 19px;
     line-height: 27px;
